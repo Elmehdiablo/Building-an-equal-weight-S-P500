@@ -1,2 +1,2 @@
-# Building-an-equal-weight-S-P500
+# Building-an-equal-weight-S&P500
  
